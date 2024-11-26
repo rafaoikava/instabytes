@@ -19,4 +19,4 @@ dotenv: Carrega variáveis de ambiente de um arquivo .env.
 Google Generative AI: API do Google para gerar texto a partir de imagens.
 
 Agradecimentos
-Agradecemos à Alura e ao Google pela oportunidade de desenvolver este projeto e pela disponibilização das ferramentas e recursos necessários.
+Agradeço à Alura e ao Google pela oportunidade de desenvolver este projeto e pela disponibilização das ferramentas e recursos necessários.
